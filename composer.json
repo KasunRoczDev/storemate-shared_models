@@ -1,0 +1,6 @@
+{
+    "name": "storemate/shared_models",
+    "description": "Basic Common Model on Micro Service in storemate",
+    "type": "library",
+    "autoload": {"psr-4": {"storemate\\Package\\":"src/"}}
+}
